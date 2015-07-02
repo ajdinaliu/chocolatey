@@ -12,8 +12,6 @@ REM ¨°º©o¿,,¿o©º°¨¨°º©o¿,,¿o©º°¨¨°º©o¿,,¿o©º°¨¨°
 echo ...running: %0
 echo.
 GOTO BEGIN
-Readme: https://github.com/chocolatey/chocolatey/wiki/CreatePackagesQuickStart
-
 
 
 :BEGIN
